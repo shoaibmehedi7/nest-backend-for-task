@@ -1,0 +1,11 @@
+{
+    "type": "postgres",
+    "host": "rokkhihomedev.clmk8pebidwd.us-east-2.rds.amazonaws.com",
+    "port": "5432",
+    "username": "rokkhihome",
+    "password": "rokkhihome",
+    "database": "rokkhihome",
+    "synchronize": true,
+    "logging": true,
+    "entities": ["dist/**/*.entity.js"]
+}
